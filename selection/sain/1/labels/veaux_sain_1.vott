@@ -1,0 +1,865 @@
+{
+    "name": "veaux_sain_1",
+    "securityToken": "veaux_sain_1 Token",
+    "sourceConnection": {
+        "name": "veaux_sain_1_videos",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTc4N2NhMTExNjQwOWRhNmEwMzZjNTE5ODJkMTFjYjc2NDg3ZWQ4NGFjZmEwM2JjOWI3ZDdmZGI0NTE5YmZjMmVkZjcyODEyMDMyOTBmZTExNDQ0N2QzMzJlZWRjYjE3YTAwMmU4M2MyMzdkYzdkMzFiNDAyYmQzY2RhMjlmOTliYTI3NGI3ZjM0OGY0YTM1ODhhNjczYjg4YjUzZGFiNSIsIml2IjoiOWFiOGIxMWMzM2MxYTY1NGJjOTY5Y2U2NGY5NjMwMjI0ZDczYzI4MzM1Njg4Y2U3In0="
+        },
+        "id": "O3W7D1-6-"
+    },
+    "targetConnection": {
+        "name": "veaux_sain_1_labels",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjVlMmUyMmM4MDIzNjNhZGVhZjdkZjZmMDI1MGMxNTIzZmNlNmUzMjFkYTY3MzFjYzQzM2FiNzQ1ZTljOTg2NzZkODA1NTU0N2ZkYTJhZGQ5NDdjMjc4MjM1ZmIzMTI4MmM0MjExMmVlZDZjMWE0NjZhYzgxY2EzNGNlNDJhN2ViZTkxNmI2OWMzMDJiN2RlNTRmYjBjZmYzZTk3OTJiNiIsIml2IjoiNTJhNjRkODVjZGJmZTk1MTk5OTdmNDA4Y2MxMGYxMGEzNjI4N2M2ZTJjNDE2ZWU3In0="
+        },
+        "id": "3jg-bLwC-"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Face",
+            "color": "#0000FF"
+        },
+        {
+            "name": "Profil-gauche",
+            "color": "#FF00FF"
+        },
+        {
+            "name": "Profil-droit",
+            "color": "#800080"
+        }
+    ],
+    "id": "jDExIuIlT",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjBmOTAxZWZlNjQ0MGVhZTU2NDBjZmNjODc3MmI2NjMzNTkyOTU3MGQxMjQ2ZTI0NzAwYzNhNzg4MjQ2NjQyZjAwMGRhYTVmY2VmMGE0MTdlMjc3YzMzNzBkNzZlNzdkIiwiaXYiOiIyZTgzODM3YzQ1ODkxN2M3OWM5NGRlYjJkMmI2MjEyMTVlNTMwODU2ZDA4MDM4NDQifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "d4b02aecc7489382f047372c2cddf3d0",
+    "assets": {
+        "d4b02aecc7489382f047372c2cddf3d0": {
+            "format": "mp4",
+            "id": "d4b02aecc7489382f047372c2cddf3d0",
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "state": 2,
+            "type": 2
+        },
+        "fca4613be2474d43dd8947e135797e81": {
+            "id": "fca4613be2474d43dd8947e135797e81",
+            "format": "266667",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141.266667",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141.266667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 141.266667
+        },
+        "cee6337edec388715425db39053f7b3d": {
+            "id": "cee6337edec388715425db39053f7b3d",
+            "format": "2",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141.2",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141.2",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 141.2
+        },
+        "fe72c6ae73ff625e616128606c82b9ad": {
+            "id": "fe72c6ae73ff625e616128606c82b9ad",
+            "format": "6",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=131.6",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=131.6",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 131.6
+        },
+        "d2fb260d7acb260b67d856f9e0050c15": {
+            "id": "d2fb260d7acb260b67d856f9e0050c15",
+            "format": "2",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=120.2",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=120.2",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 120.2
+        },
+        "395f05a4fba7ffc696fccacd9d86a9bf": {
+            "id": "395f05a4fba7ffc696fccacd9d86a9bf",
+            "format": "6",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=124.6",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=124.6",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 124.6
+        },
+        "18ca8cb99ecd13b0cbf6dce80282e2f4": {
+            "id": "18ca8cb99ecd13b0cbf6dce80282e2f4",
+            "format": "733333",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.733333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.733333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 140.733333
+        },
+        "f6d3b307a274e44355cb0e6331103cf0": {
+            "id": "f6d3b307a274e44355cb0e6331103cf0",
+            "format": "8",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.8",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.8",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 140.8
+        },
+        "6c620472be3973e2c8733600620a9b88": {
+            "id": "6c620472be3973e2c8733600620a9b88",
+            "format": "866667",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.866667",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.866667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 140.866667
+        },
+        "5a39e4a51b28e1cd6261b7f9e4b47504": {
+            "id": "5a39e4a51b28e1cd6261b7f9e4b47504",
+            "format": "933333",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.933333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.933333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 140.933333
+        },
+        "ca26828101077c7206ccd39670224f8f": {
+            "id": "ca26828101077c7206ccd39670224f8f",
+            "format": "mp4",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 141
+        },
+        "61418c3211b964dd7fdb53db6d3c026c": {
+            "id": "61418c3211b964dd7fdb53db6d3c026c",
+            "format": "066667",
+            "state": 2,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141.066667",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141.066667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 141.066667
+        },
+        "1be54b5da3c1a34cfbe811e0ab0da62c": {
+            "id": "1be54b5da3c1a34cfbe811e0ab0da62c",
+            "format": "133333",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141.133333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=141.133333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 141.133333
+        },
+        "19ecb63ed84515d5a5e1b9555b5cb8f0": {
+            "id": "19ecb63ed84515d5a5e1b9555b5cb8f0",
+            "format": "666667",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.666667",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.666667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 140.666667
+        },
+        "9f667825fdfc62adfe3b278667313b37": {
+            "id": "9f667825fdfc62adfe3b278667313b37",
+            "format": "6",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.6",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=140.6",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 140.6
+        },
+        "948b851daa756b5262bbb8f138af8fae": {
+            "id": "948b851daa756b5262bbb8f138af8fae",
+            "format": "666667",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.666667",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.666667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 245.666667
+        },
+        "142477a7d6483e809331b0c9f6826c6c": {
+            "id": "142477a7d6483e809331b0c9f6826c6c",
+            "format": "6",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.6",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.6",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 245.6
+        },
+        "05e65e8ba17a71d2a73e76cacd53b719": {
+            "id": "05e65e8ba17a71d2a73e76cacd53b719",
+            "format": "533333",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.533333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.533333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 245.533333
+        },
+        "2fcf7fe3c3841c152d8fae9dbf3c8deb": {
+            "id": "2fcf7fe3c3841c152d8fae9dbf3c8deb",
+            "format": "466667",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.466667",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.466667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 245.466667
+        },
+        "b7ff61456f51b7aabc1a0266cd6561f9": {
+            "id": "b7ff61456f51b7aabc1a0266cd6561f9",
+            "format": "4",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.4",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.4",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 245.4
+        },
+        "45e9ecb93263bf103db67d3b8b040917": {
+            "id": "45e9ecb93263bf103db67d3b8b040917",
+            "format": "333333",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.333333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=245.333333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 245.333333
+        },
+        "32d9aaa6a87cab232779fba1a7944cdb": {
+            "id": "32d9aaa6a87cab232779fba1a7944cdb",
+            "format": "mp4",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=474",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=474",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 474
+        },
+        "0786004fd3c7eefef9839db111e5b12c": {
+            "id": "0786004fd3c7eefef9839db111e5b12c",
+            "format": "933333",
+            "state": 2,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.933333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.933333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 473.933333
+        },
+        "ab19322395ecfa9a326ff997b6458929": {
+            "id": "ab19322395ecfa9a326ff997b6458929",
+            "format": "866667",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.866667",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.866667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 473.866667
+        },
+        "a32fd89cf14c377596b3087968a23487": {
+            "id": "a32fd89cf14c377596b3087968a23487",
+            "format": "733333",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=468.733333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=468.733333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 468.733333
+        },
+        "2f057600b6a453af6ea8051d8f9b3786": {
+            "id": "2f057600b6a453af6ea8051d8f9b3786",
+            "format": "8",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=469.8",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=469.8",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 469.8
+        },
+        "79de082b2f9b70b42af93b188916320a": {
+            "id": "79de082b2f9b70b42af93b188916320a",
+            "format": "666667",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.666667",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.666667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 473.666667
+        },
+        "afcf41f63c7510341cca0406fd749adc": {
+            "id": "afcf41f63c7510341cca0406fd749adc",
+            "format": "733333",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.733333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.733333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 473.733333
+        },
+        "8431b250552ef76cd961d38e6ea2a6ad": {
+            "id": "8431b250552ef76cd961d38e6ea2a6ad",
+            "format": "8",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.8",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=473.8",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 473.8
+        },
+        "bcbb2a97621293d94b975a50a902c42c": {
+            "id": "bcbb2a97621293d94b975a50a902c42c",
+            "format": "8",
+            "state": 2,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=474.8",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=474.8",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 474.8
+        },
+        "268d64dc1dcaea0f6c7f0e208fa5445c": {
+            "id": "268d64dc1dcaea0f6c7f0e208fa5445c",
+            "format": "133333",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=519.133333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=519.133333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 519.133333
+        },
+        "e9ade7a3a865d39d4429b6531fd747b8": {
+            "id": "e9ade7a3a865d39d4429b6531fd747b8",
+            "format": "133333",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=523.133333",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=523.133333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 523.133333
+        },
+        "474ef4f5b7a1437470c38cff6b9f2f81": {
+            "id": "474ef4f5b7a1437470c38cff6b9f2f81",
+            "format": "866667",
+            "state": 1,
+            "type": 3,
+            "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=521.866667",
+            "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4#t=521.866667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "d4b02aecc7489382f047372c2cddf3d0",
+                "name": "_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "path": "file:F:/selection/sain/1/videos/_6810_ch1_from_28022022204230__to__28022022205118.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 521.866667
+        }
+    }
+}

@@ -1,0 +1,3195 @@
+{
+    "name": "veaux_diarrhée_1",
+    "securityToken": "veaux_diarrhée_1 Token",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Face",
+            "color": "#FF00FF"
+        },
+        {
+            "name": "Profil-gauche",
+            "color": "#800080"
+        },
+        {
+            "name": "Profil-droit",
+            "color": "#FF0000"
+        }
+    ],
+    "id": "GUOZONBnv",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "c7f40bc555b520496324fd61523f233a",
+    "assets": {
+        "de3e6d3bc39a9f9428b7110e83b27b84": {
+            "asset": {
+                "id": "de3e6d3bc39a9f9428b7110e83b27b84",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.2.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.2",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "c8ded5e1f79ab3d660b8d7a2285fd177": {
+            "asset": {
+                "id": "c8ded5e1f79ab3d660b8d7a2285fd177",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.333333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.333333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "6b0816355d5cd0a594c7a6debae82f2f": {
+            "asset": {
+                "id": "6b0816355d5cd0a594c7a6debae82f2f",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.4.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "185d5ea5f4731d59315814c3a8c58632": {
+            "asset": {
+                "id": "185d5ea5f4731d59315814c3a8c58632",
+                "format": "533333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.533333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.533333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.533333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "0c26effc9381e5f7979e2396942175b6": {
+            "asset": {
+                "id": "0c26effc9381e5f7979e2396942175b6",
+                "format": "6",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.6.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.6",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.6
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "3a5baaee73420bddc01243e57aead7fb": {
+            "asset": {
+                "id": "3a5baaee73420bddc01243e57aead7fb",
+                "format": "666667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.666667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.666667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.666667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "3893514432cb91426963efd6adc5d091": {
+            "asset": {
+                "id": "3893514432cb91426963efd6adc5d091",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.733333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.733333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "f80bdfddc2ead8424254eca41f8a3ac0": {
+            "asset": {
+                "id": "f80bdfddc2ead8424254eca41f8a3ac0",
+                "format": "8",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.8.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.8",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.8
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "5ea7d6b1a1338fb947d6273a9bf8ab7a": {
+            "asset": {
+                "id": "5ea7d6b1a1338fb947d6273a9bf8ab7a",
+                "format": "866667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.866667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.866667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.866667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "7d39cd9ce9d98d4dac6ceca945a62326": {
+            "asset": {
+                "id": "7d39cd9ce9d98d4dac6ceca945a62326",
+                "format": "933333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.933333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.933333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.933333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "b6a15d930ffb22efb7c6671e917bc548": {
+            "asset": {
+                "id": "b6a15d930ffb22efb7c6671e917bc548",
+                "format": "mp4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 215
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "b068415d3669cdc6039d3d3a3c87e89d": {
+            "asset": {
+                "id": "b068415d3669cdc6039d3d3a3c87e89d",
+                "format": "066667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.066667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.066667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 215.066667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "0e2d3bb873a482c2d0f42362754f1eb5": {
+            "asset": {
+                "id": "0e2d3bb873a482c2d0f42362754f1eb5",
+                "format": "133333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.133333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.133333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 215.133333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "c0e9f34e5bb5046ed2a7d77ab7ce11ae": {
+            "asset": {
+                "id": "c0e9f34e5bb5046ed2a7d77ab7ce11ae",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.2.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.2",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 215.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "94c8e3951b61fe9a6a053df1f8ee36b7": {
+            "asset": {
+                "id": "94c8e3951b61fe9a6a053df1f8ee36b7",
+                "format": "266667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.266667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.266667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 215.266667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "64e06604d9ac4b05ffd44b74e3cdc2f8": {
+            "asset": {
+                "id": "64e06604d9ac4b05ffd44b74e3cdc2f8",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.333333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.333333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 215.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "c79ed7b1d9cbcc50e5c0d6cd4b4a3d4e": {
+            "asset": {
+                "id": "c79ed7b1d9cbcc50e5c0d6cd4b4a3d4e",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.4.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 215.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "b69bd1b56ddff52a60285508e54efa08": {
+            "asset": {
+                "id": "b69bd1b56ddff52a60285508e54efa08",
+                "format": "8",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.8.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=215.8",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 215.8
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "bffb281a6cdb4a293d2c806d59fc0ed4": {
+            "asset": {
+                "id": "bffb281a6cdb4a293d2c806d59fc0ed4",
+                "format": "466667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.466667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.466667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214.466667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "039f3105d3181caa108b450a25a8a570": {
+            "asset": {
+                "id": "039f3105d3181caa108b450a25a8a570",
+                "format": "266667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.266667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.266667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.266667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "ebc61422df6fc8bad2869fdb41d89506": {
+            "asset": {
+                "id": "ebc61422df6fc8bad2869fdb41d89506",
+                "format": "866667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=216.866667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=216.866667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 216.866667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "fa327f1c812a94bfd609c1904a57c8b8": {
+            "asset": {
+                "id": "fa327f1c812a94bfd609c1904a57c8b8",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.2.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.2",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "f62e4e25391434a3a893ef39d4d08a8f": {
+            "asset": {
+                "id": "f62e4e25391434a3a893ef39d4d08a8f",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.333333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.333333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "ed0ae1ac6455b75d50d5de129f164b91": {
+            "asset": {
+                "id": "ed0ae1ac6455b75d50d5de129f164b91",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.4.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "e735038777de4baec1d5bf448786d18b": {
+            "asset": {
+                "id": "e735038777de4baec1d5bf448786d18b",
+                "format": "466667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.466667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.466667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.466667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "44efe52bbf995d36e531cb8c44bf6670": {
+            "asset": {
+                "id": "44efe52bbf995d36e531cb8c44bf6670",
+                "format": "533333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.533333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.533333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.533333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "f4824807a970733e8e7d5753fe4e382d": {
+            "asset": {
+                "id": "f4824807a970733e8e7d5753fe4e382d",
+                "format": "6",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.6.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.6",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.6
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "9ebfa23fbf009b4fd544ff440cdc6c0e": {
+            "asset": {
+                "id": "9ebfa23fbf009b4fd544ff440cdc6c0e",
+                "format": "666667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.666667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.666667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.666667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "09fa264c76af778d34215ddb08f692d5": {
+            "asset": {
+                "id": "09fa264c76af778d34215ddb08f692d5",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.733333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.733333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "132ac9defc20855e6290c64286ad0e15": {
+            "asset": {
+                "id": "132ac9defc20855e6290c64286ad0e15",
+                "format": "8",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.8.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.8",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.8
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "96a01fbc21f9540da54b2e3af78fa501": {
+            "asset": {
+                "id": "96a01fbc21f9540da54b2e3af78fa501",
+                "format": "866667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.866667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.866667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.866667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "6c844517b98af92003b6b40c83b92cae": {
+            "asset": {
+                "id": "6c844517b98af92003b6b40c83b92cae",
+                "format": "933333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.933333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=211.933333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 211.933333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "fce1295bb2d1f07c7bda37f2f179435f": {
+            "asset": {
+                "id": "fce1295bb2d1f07c7bda37f2f179435f",
+                "format": "mp4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "a88cb1769a38e445928e3abfaa47a115": {
+            "asset": {
+                "id": "a88cb1769a38e445928e3abfaa47a115",
+                "format": "066667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.066667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.066667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.066667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "c505fe993902ce3512cc5279066ecfc0": {
+            "asset": {
+                "id": "c505fe993902ce3512cc5279066ecfc0",
+                "format": "133333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.133333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.133333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.133333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "79970b8266964e50129c56b41508cd03": {
+            "asset": {
+                "id": "79970b8266964e50129c56b41508cd03",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.2.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.2",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "8fee06d7481adefa9c64f822b90b4d75": {
+            "asset": {
+                "id": "8fee06d7481adefa9c64f822b90b4d75",
+                "format": "266667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.266667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.266667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.266667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "7a1832e2ac4c010bfa2920bf7275626c": {
+            "asset": {
+                "id": "7a1832e2ac4c010bfa2920bf7275626c",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.333333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.333333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "e77271b1f9cd320bea9bd478c86e9cae": {
+            "asset": {
+                "id": "e77271b1f9cd320bea9bd478c86e9cae",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.4.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "aa3ec906666117ad3991c36667471c10": {
+            "asset": {
+                "id": "aa3ec906666117ad3991c36667471c10",
+                "format": "466667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.466667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.466667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.466667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "eb2691e6c2ec3dedfd286954d46c9f6f": {
+            "asset": {
+                "id": "eb2691e6c2ec3dedfd286954d46c9f6f",
+                "format": "533333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.533333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.533333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.533333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "67cda6f840d762f16a7ec0c7ff4e0513": {
+            "asset": {
+                "id": "67cda6f840d762f16a7ec0c7ff4e0513",
+                "format": "6",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.6.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.6",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.6
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "f68f2351f21d395aa684b2e4fa864611": {
+            "asset": {
+                "id": "f68f2351f21d395aa684b2e4fa864611",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.733333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.733333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "76f3c54df3b14340a02e797d0ad2751b": {
+            "asset": {
+                "id": "76f3c54df3b14340a02e797d0ad2751b",
+                "format": "8",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.8.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.8",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.8
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "bd355a370f8bb058ed713bf32c688b74": {
+            "asset": {
+                "id": "bd355a370f8bb058ed713bf32c688b74",
+                "format": "866667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.866667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.866667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.866667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "bba4fa77604a9c45bd8afdf949e7f3c3": {
+            "asset": {
+                "id": "bba4fa77604a9c45bd8afdf949e7f3c3",
+                "format": "933333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.933333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=212.933333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 212.933333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "d04fa154e0dd2523e27c1b1979e79a80": {
+            "asset": {
+                "id": "d04fa154e0dd2523e27c1b1979e79a80",
+                "format": "mp4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "2170a247b5fe65c9f08d539671554deb": {
+            "asset": {
+                "id": "2170a247b5fe65c9f08d539671554deb",
+                "format": "066667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.066667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.066667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.066667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "4f29dfc19fffdea885c9a41dca42814a": {
+            "asset": {
+                "id": "4f29dfc19fffdea885c9a41dca42814a",
+                "format": "133333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.133333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.133333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.133333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "5022ed1b815855dfe16ef4b27afc9c32": {
+            "asset": {
+                "id": "5022ed1b815855dfe16ef4b27afc9c32",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.2.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.2",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "98daa5927aef720024428b02d0e32d22": {
+            "asset": {
+                "id": "98daa5927aef720024428b02d0e32d22",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.333333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.333333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "13d9c00643294df3c48d15de407691d9": {
+            "asset": {
+                "id": "13d9c00643294df3c48d15de407691d9",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.4.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "81208234a2395f5faf5d1f7c4fb990e7": {
+            "asset": {
+                "id": "81208234a2395f5faf5d1f7c4fb990e7",
+                "format": "533333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.533333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.533333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.533333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "c49c38d4daba5c7707101d374eee274c": {
+            "asset": {
+                "id": "c49c38d4daba5c7707101d374eee274c",
+                "format": "6",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.6.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.6",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.6
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "97ef3d4a07feede4474f0dbcc1b05e6f": {
+            "asset": {
+                "id": "97ef3d4a07feede4474f0dbcc1b05e6f",
+                "format": "666667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.666667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.666667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.666667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "2db04151ac65df3b19b54327beb452f3": {
+            "asset": {
+                "id": "2db04151ac65df3b19b54327beb452f3",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.733333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.733333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "8c51b96dd4b60da2b3c9de9c89652955": {
+            "asset": {
+                "id": "8c51b96dd4b60da2b3c9de9c89652955",
+                "format": "8",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.8.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.8",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.8
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "16252c05f14e73c71be878c9567a4973": {
+            "asset": {
+                "id": "16252c05f14e73c71be878c9567a4973",
+                "format": "866667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.866667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.866667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.866667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "d77995e1d2856773dc5bf77d9869adea": {
+            "asset": {
+                "id": "d77995e1d2856773dc5bf77d9869adea",
+                "format": "933333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.933333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=213.933333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 213.933333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "4b2e8c1d63d5af6517404f3bac0de867": {
+            "asset": {
+                "id": "4b2e8c1d63d5af6517404f3bac0de867",
+                "format": "mp4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=214",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 214
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "5724535de211d46f212ada8b0d7e37da": {
+            "asset": {
+                "id": "5724535de211d46f212ada8b0d7e37da",
+                "format": "466667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.466667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.466667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 94.466667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "b4d7e80223b7d114eea42cff53d64ba5": {
+            "asset": {
+                "id": "b4d7e80223b7d114eea42cff53d64ba5",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.4.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 94.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "1e6c576a61aea8219098669922074e68": {
+            "asset": {
+                "id": "1e6c576a61aea8219098669922074e68",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.333333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.333333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 94.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "62fadd547ad0229dda50144ab78dd244": {
+            "asset": {
+                "id": "62fadd547ad0229dda50144ab78dd244",
+                "format": "266667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.266667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.266667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 94.266667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "0106da5dc6deaf9de3e32d0aa91fe51f": {
+            "asset": {
+                "id": "0106da5dc6deaf9de3e32d0aa91fe51f",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.2.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.2",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 94.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "95d99fad0c1fd2a9baad92b051f26968": {
+            "asset": {
+                "id": "95d99fad0c1fd2a9baad92b051f26968",
+                "format": "133333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.133333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.133333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 94.133333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "b6324b5529f319f2c7dd8e69ec38ab48": {
+            "asset": {
+                "id": "b6324b5529f319f2c7dd8e69ec38ab48",
+                "format": "066667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.066667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.066667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 94.066667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "6bae8d1b757e610b517907fb3655a95a": {
+            "asset": {
+                "id": "6bae8d1b757e610b517907fb3655a95a",
+                "format": "mp4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=94",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 94
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "bc1dcf6ac7082872123063c0892a970c": {
+            "asset": {
+                "id": "bc1dcf6ac7082872123063c0892a970c",
+                "format": "866667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.866667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.866667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.866667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "6156a1c2a71953aff4a709d066950382": {
+            "asset": {
+                "id": "6156a1c2a71953aff4a709d066950382",
+                "format": "8",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.8.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.8",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.8
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "587d287d3674d89620d44bf054bc3fff": {
+            "asset": {
+                "id": "587d287d3674d89620d44bf054bc3fff",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.733333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.733333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "0246721e49ccdc22b274e6657f0e7a58": {
+            "asset": {
+                "id": "0246721e49ccdc22b274e6657f0e7a58",
+                "format": "666667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.666667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.666667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.666667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "39c9fd387c01763e242b6e1c4cc72af4": {
+            "asset": {
+                "id": "39c9fd387c01763e242b6e1c4cc72af4",
+                "format": "533333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.533333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.533333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.533333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "70d5a80844d4d020a0e613c7f6770c45": {
+            "asset": {
+                "id": "70d5a80844d4d020a0e613c7f6770c45",
+                "format": "466667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.466667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.466667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.466667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "442a2d6133272220d8bf18c0a7465bd5": {
+            "asset": {
+                "id": "442a2d6133272220d8bf18c0a7465bd5",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.4.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "86423d82b1a2eacd0211f8b4ca54ee5e": {
+            "asset": {
+                "id": "86423d82b1a2eacd0211f8b4ca54ee5e",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.333333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.333333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "63f80a6e1501012af13d0ba6892f791e": {
+            "asset": {
+                "id": "63f80a6e1501012af13d0ba6892f791e",
+                "format": "266667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.266667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.266667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.266667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "25b6dbe920b44deb47a9efffd55512cf": {
+            "asset": {
+                "id": "25b6dbe920b44deb47a9efffd55512cf",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.2.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.2",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "6e6eab0419520bbb90fa4e9f7ae03b01": {
+            "asset": {
+                "id": "6e6eab0419520bbb90fa4e9f7ae03b01",
+                "format": "133333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.133333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.133333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.133333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "b43390b3f426a3fd6df3c947e890d322": {
+            "asset": {
+                "id": "b43390b3f426a3fd6df3c947e890d322",
+                "format": "066667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.066667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.066667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.066667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "b45175494b655a97afcdb727c36530a8": {
+            "asset": {
+                "id": "b45175494b655a97afcdb727c36530a8",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.4.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 91.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "e3bbb48613954356a4e4b81dec367efe": {
+            "asset": {
+                "id": "e3bbb48613954356a4e4b81dec367efe",
+                "format": "466667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.466667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.466667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 91.466667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "75e5d304477d94f9690b17641913b527": {
+            "asset": {
+                "id": "75e5d304477d94f9690b17641913b527",
+                "format": "533333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.533333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.533333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 91.533333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "903e787be9dc2576f520f1245259ce8f": {
+            "asset": {
+                "id": "903e787be9dc2576f520f1245259ce8f",
+                "format": "6",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.6.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.6",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 91.6
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "dd59b9c77086b69ea98cbad734841d4f": {
+            "asset": {
+                "id": "dd59b9c77086b69ea98cbad734841d4f",
+                "format": "666667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.666667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.666667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 91.666667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "d1cbdc230e98c310024362b6195b8a87": {
+            "asset": {
+                "id": "d1cbdc230e98c310024362b6195b8a87",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.733333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.733333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 91.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "f97681db6eb8f610dba9c5f5d14d3e78": {
+            "asset": {
+                "id": "f97681db6eb8f610dba9c5f5d14d3e78",
+                "format": "8",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.8.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.8",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 91.8
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "efbd731e34b26ec1f5a3d39270318986": {
+            "asset": {
+                "id": "efbd731e34b26ec1f5a3d39270318986",
+                "format": "866667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.866667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.866667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 91.866667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "19c693325b08f5674af4c8d662581a0f": {
+            "asset": {
+                "id": "19c693325b08f5674af4c8d662581a0f",
+                "format": "933333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.933333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=91.933333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 91.933333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "67e99c639e651fbcc7c8a0c2573d2fe9": {
+            "asset": {
+                "id": "67e99c639e651fbcc7c8a0c2573d2fe9",
+                "format": "mp4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "27f97317f90236b39c3e275c74f6c33b": {
+            "asset": {
+                "id": "27f97317f90236b39c3e275c74f6c33b",
+                "format": "066667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.066667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.066667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.066667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "7b0b284153d579d0eaeef922bb032982": {
+            "asset": {
+                "id": "7b0b284153d579d0eaeef922bb032982",
+                "format": "133333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.133333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.133333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.133333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "bb0aa96aafccf71656acf8244cc1bf8f": {
+            "asset": {
+                "id": "bb0aa96aafccf71656acf8244cc1bf8f",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.2.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.2",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "baa7a549c8120df5535dfc2171b73987": {
+            "asset": {
+                "id": "baa7a549c8120df5535dfc2171b73987",
+                "format": "266667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.266667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.266667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.266667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "ec1af5db9e8731b2f094b5edfd4acc01": {
+            "asset": {
+                "id": "ec1af5db9e8731b2f094b5edfd4acc01",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.333333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.333333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "de24837789b5b4b10198ff8b8fde1ace": {
+            "asset": {
+                "id": "de24837789b5b4b10198ff8b8fde1ace",
+                "format": "4",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.4.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.4
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "5996f4b8f07526f639dc90bfe7f9df1c": {
+            "asset": {
+                "id": "5996f4b8f07526f639dc90bfe7f9df1c",
+                "format": "466667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.466667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.466667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.466667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "52ce74be151e70f140e07785eaa67775": {
+            "asset": {
+                "id": "52ce74be151e70f140e07785eaa67775",
+                "format": "533333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.533333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.533333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.533333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "647911a8cf617f6d24241bf1b4895bc5": {
+            "asset": {
+                "id": "647911a8cf617f6d24241bf1b4895bc5",
+                "format": "6",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.6.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.6",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.6
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "2990a58e55fcdc170c82e45265ff0b74": {
+            "asset": {
+                "id": "2990a58e55fcdc170c82e45265ff0b74",
+                "format": "666667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.666667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.666667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.666667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "79750c4b7800a677329123b71c41af12": {
+            "asset": {
+                "id": "79750c4b7800a677329123b71c41af12",
+                "format": "733333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.733333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.733333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.733333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "a189323e9d7d24f7d9faa84b55c496bf": {
+            "asset": {
+                "id": "a189323e9d7d24f7d9faa84b55c496bf",
+                "format": "8",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.8.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.8",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.8
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "da22572fcc1f3a56f178da85f6ebb544": {
+            "asset": {
+                "id": "da22572fcc1f3a56f178da85f6ebb544",
+                "format": "866667",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.866667.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.866667",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.866667
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "367cd790c18aee52ce3924adbb28d21a": {
+            "asset": {
+                "id": "367cd790c18aee52ce3924adbb28d21a",
+                "format": "mp4",
+                "state": 2,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93
+            },
+            "regions": [
+                {
+                    "id": "oI-rv57I-",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "Profil-droit"
+                    ],
+                    "boundingBox": {
+                        "height": 412.99196044921877,
+                        "width": 351.0034298780488,
+                        "left": 1164.9681050656661,
+                        "top": 653.2110131835938
+                    },
+                    "points": [
+                        {
+                            "x": 1164.9681050656661,
+                            "y": 653.2110131835938
+                        },
+                        {
+                            "x": 1515.971534943715,
+                            "y": 653.2110131835938
+                        },
+                        {
+                            "x": 1515.971534943715,
+                            "y": 1066.2029736328125
+                        },
+                        {
+                            "x": 1164.9681050656661,
+                            "y": 1066.2029736328125
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "bd231267577dba9eff0da6d1562e400c": {
+            "asset": {
+                "id": "bd231267577dba9eff0da6d1562e400c",
+                "format": "933333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.933333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=92.933333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 92.933333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "d7545abd9d79658981022342e7b2d87d": {
+            "asset": {
+                "id": "d7545abd9d79658981022342e7b2d87d",
+                "format": "2",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=89.2.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=89.2",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 89.2
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "2c75bb78df07e4226674cd41d2e56acf": {
+            "asset": {
+                "id": "2c75bb78df07e4226674cd41d2e56acf",
+                "format": "333333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=87.333333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=87.333333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 87.333333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        },
+        "d4c45a54ce4fd60df3ad5bc2ebdfd9f6": {
+            "asset": {
+                "id": "d4c45a54ce4fd60df3ad5bc2ebdfd9f6",
+                "format": "933333",
+                "state": 1,
+                "type": 3,
+                "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.933333.jpg",
+                "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4#t=93.933333",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "parent": {
+                    "format": "mp4",
+                    "id": "c7f40bc555b520496324fd61523f233a",
+                    "name": "_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "path": "file:F:/selection/Diarrh%C3%A9/1/videos/_6404_ch1_from_24022022203430__to__24022022204223.mp4",
+                    "size": {
+                        "width": 2304,
+                        "height": 1296
+                    },
+                    "state": 1,
+                    "type": 2
+                },
+                "timestamp": 93.933333
+            },
+            "regions": [],
+            "version": "2.2.0"
+        }
+    }
+}
