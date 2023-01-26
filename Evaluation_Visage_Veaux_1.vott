@@ -5,7 +5,7 @@
         "name": "videos_veaux",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmUyYTY0NGEyMDlkNWZhZjg4ZTg4NWQyMzRhYzNkMDMzYzQ3NGZjZTgwYWNjODUxMDBmZmRiOGI0NDI0NGIyNSIsIml2IjoiNjc2YmY2NDlhZmUxYmRjYjQ2MTZhMWE2NTcwYjNjODBjOTEzNmRmMDJlMWQ1N2E3In0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZjNhN2RlYjllODNlOWQ5NTRmNzY2NmI1MTM1ODQ2OTJhNzNkYzdmZWVlYzliOWJlNmE3MDcxNjQ5MmNlNWRlMiIsIml2IjoiMmUzYzRmOTE1NGMzMDVmOGMzZjZkNTBlYzA4NzVkZjVjOTliMjBmY2NjNWI5NGJjIn0="
         },
         "id": "4EyhqBECh"
     },
@@ -13,7 +13,7 @@
         "name": "videos_labels",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2Y3ZTBkZTBlNjFmOGQzN2MzNGE0M2RkZDhmM2FkZGVmZDk4MWE2NjBhMmUzODZjNTliMjJjYWJkYTI4YWJmOGNkYTA4NmYzZGJlMDBhNTdkMjA0OTc4OTZlNTI5MzE3IiwiaXYiOiI4ZmZjMTgzNGNlZDAyZDBlYTgyZTI1YWQ0NjMyYTBkYWJjMzAwOGIxNWY5OWI3ZDYifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTdhYjg1MmMxMGYxNDFhNjQ5MjBlNzhjMWMwMzNmZmIyZDM0NDk1NzIzMGIyYTgwNGYxZGY3YzQ5MzFmMjUzYTNhY2IyNjVmN2I1MzVmMzA2ZDg4NjQxYTgyN2FlMjhkIiwiaXYiOiJiYjk2NmIxZGM1NzVhYjExNDk5Njk3ZTM5MmJiZTQwMDYyMjQ3NzRjM2YwMjE1NjkifQ=="
         },
         "id": "II2YSqATl"
     },
@@ -41,9 +41,9 @@
         "modelPathType": "coco"
     },
     "exportFormat": {
-        "providerType": "vottJson",
+        "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiM2U4YjFjMTkzMjA3MDY4N2IyMThmNjY3NjE0YWM1NGFiMTcxOTQzZmI1YWY0NGU2MTI4MzcxM2RlNTE3MDA1ZTA3MjgwOWE2NmZjZTk3MWJmYzU3MTAyZGEwNmE1NDVkIiwiaXYiOiI2NDZmMGI1Y2IxNTI4NjBmYTE3ZGE4ZTMzZjhjNGUyZGM3NGNkOTg4Mzk2YjAwZmYifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTExMTQxOTAwMDI2ODI1MDVhZWEwYTdlYWUxMjhiMjYzMTJjOGViZTM2MDExZjA5NGQyNzg5MzIyMWFhMDYxNTcwMWRmNmUxNzcwYmJhMjkxYzgxZjQzMDljOTFlYjgwIiwiaXYiOiJiNzJlZDRjYTQ2NjZjZjY3NDBiY2ZmOTgzNGQ5Mzc2NGNlNzFhZWNmNmM0MDhiNjUifQ=="
         }
     },
     "version": "2.2.0",
@@ -5149,6 +5149,106 @@
                 "type": 2
             },
             "timestamp": 121.666667
+        },
+        "edd006341eaf3f305556e26e838de7ae": {
+            "id": "edd006341eaf3f305556e26e838de7ae",
+            "format": "4",
+            "state": 1,
+            "type": 3,
+            "name": "0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4#t=1.4",
+            "path": "file:F:/dataset/0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4#t=1.4",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "9bd5417778c9851441adad60d50f8899",
+                "name": "0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4",
+                "path": "file:F:/dataset/0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 2,
+                "type": 2
+            },
+            "timestamp": 1.4
+        },
+        "0bcc54dadeb9cc8bb5799a6c2afffc39": {
+            "id": "0bcc54dadeb9cc8bb5799a6c2afffc39",
+            "format": "666667",
+            "state": 1,
+            "type": 3,
+            "name": "0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4#t=1.666667",
+            "path": "file:F:/dataset/0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4#t=1.666667",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "9bd5417778c9851441adad60d50f8899",
+                "name": "0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4",
+                "path": "file:F:/dataset/0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 2,
+                "type": 2
+            },
+            "timestamp": 1.666667
+        },
+        "65724bac94cf29b94faa756d163729e1": {
+            "id": "65724bac94cf29b94faa756d163729e1",
+            "format": "333333",
+            "state": 1,
+            "type": 3,
+            "name": "0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4#t=1.333333",
+            "path": "file:F:/dataset/0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4#t=1.333333",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "9bd5417778c9851441adad60d50f8899",
+                "name": "0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4",
+                "path": "file:F:/dataset/0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 2,
+                "type": 2
+            },
+            "timestamp": 1.333333
+        },
+        "f24dc7a51a7da871f975fcad4e0eb317": {
+            "id": "f24dc7a51a7da871f975fcad4e0eb317",
+            "format": "mp4",
+            "state": 1,
+            "type": 3,
+            "name": "0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4#t=2",
+            "path": "file:F:/dataset/0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4#t=2",
+            "size": {
+                "width": 2304,
+                "height": 1296
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "9bd5417778c9851441adad60d50f8899",
+                "name": "0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4",
+                "path": "file:F:/dataset/0.02078538404410002__6404_ch1_from_27022022213530__to__27022022214529.mp4",
+                "size": {
+                    "width": 2304,
+                    "height": 1296
+                },
+                "state": 2,
+                "type": 2
+            },
+            "timestamp": 2
         }
     }
 }
